@@ -1,0 +1,37 @@
+/*Understanding .NET
+.NET Core, .NET Framework, .NET Standard & Xamarin are related.*/
+
+/*
+.NET Framework -> Development platform that includes a Common Language Runtime(CLR) which manaes execution of code & Base Class Library(BCL) library of classes
+Libraries are stored in the Global Assembly Cache. Its a windows only and a legacy platform.
+
+Mono & Xamarin -> Cross-platform used to create mobile applications.
+
+.NET Core -> Modified .NET Framework. CoreCLR & CoreFX. Improvements that are made on .NET Core cannot be added to .NET Framework.
+.NET support: Long Term Support(LTS) -> 3 years & Current -> 3 months.
+
+Modifications to .NET Core
+Removal of legacy technologies: Windows Forms & Windows Presentation Foundation(WPF) -> Used to build GUI apps.
+                                Replaced with; Windows Desktop Pack.
+                                ASP.NET Web Forms & Windows Communication Foundation -> Web Application and Service technologies.
+                                Replaced with; ASP.NET MVC & ASP.NET Web API in ASP.NET Core.
+
+.NET Standard -> Combination of .NET Core(For Cross-platform apps), .NET Framework(For Legacy apps) & Xamarin(For Mobile apps).
+*/
+
+/*
+Understanding Intermediate Language
+C# Compiler(Roslyn; used by the dotnet CLI tool) converts your C# source code into intermediate language code(IL) 
+                                                 and stores IL in an assembly(DLL or EXE file).
+                                                 IL is retrieved from Assembly & executed by CoreCLR at runtime,
+                                                 the just-in-time(JIT) compiles it into native CPU instructions and executed by CPU.
+C#-->IL-->Assembly(DLL or EXE file)-->CoreCLR-->JIT-->Native CPU instructions-->CPU.
+
+.NET Native -> Compiles C# code to native CPU instructions Ahead of Time(AoT). Improves execution speed and reduces the memory footprint.
+*/
+
+/*
+dotnet new console
+
+dotnet run
+*/
