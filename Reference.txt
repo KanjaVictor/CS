@@ -2,7 +2,7 @@
 .NET Core, .NET Framework, .NET Standard & Xamarin are related.*/
 
 /*
-.NET Framework -> Development platform that includes a Common Language Runtime(CLR) which manaes execution of code & Base Class Library(BCL) library of classes
+.NET Framework -> Development platform that includes a Common Language Runtime(CLR) which manages execution of code & Base Class Library(BCL) library of classes
 Libraries are stored in the Global Assembly Cache. Its a windows only and a legacy platform.
 
 Mono & Xamarin -> Cross-platform used to create mobile applications.
