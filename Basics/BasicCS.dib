@@ -1,0 +1,8 @@
+#!csharp
+
+int number = 8;
+Console.WriteLine("Hello, .NET Interactive!")
+
+#!csharp
+
+Console.WriteLine(number)

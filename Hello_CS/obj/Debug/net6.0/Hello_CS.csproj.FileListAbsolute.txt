@@ -1,0 +1,15 @@
+C:\Users\Kanja\Desktop\C#\Hello_CS\bin\Debug\net6.0\Hello_CS.exe
+C:\Users\Kanja\Desktop\C#\Hello_CS\bin\Debug\net6.0\Hello_CS.deps.json
+C:\Users\Kanja\Desktop\C#\Hello_CS\bin\Debug\net6.0\Hello_CS.runtimeconfig.json
+C:\Users\Kanja\Desktop\C#\Hello_CS\bin\Debug\net6.0\Hello_CS.dll
+C:\Users\Kanja\Desktop\C#\Hello_CS\bin\Debug\net6.0\Hello_CS.pdb
+C:\Users\Kanja\Desktop\C#\Hello_CS\obj\Debug\net6.0\Hello_CS.csproj.AssemblyReference.cache
+C:\Users\Kanja\Desktop\C#\Hello_CS\obj\Debug\net6.0\Hello_CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kanja\Desktop\C#\Hello_CS\obj\Debug\net6.0\Hello_CS.AssemblyInfoInputs.cache
+C:\Users\Kanja\Desktop\C#\Hello_CS\obj\Debug\net6.0\Hello_CS.AssemblyInfo.cs
+C:\Users\Kanja\Desktop\C#\Hello_CS\obj\Debug\net6.0\Hello_CS.csproj.CoreCompileInputs.cache
+C:\Users\Kanja\Desktop\C#\Hello_CS\obj\Debug\net6.0\Hello_CS.dll
+C:\Users\Kanja\Desktop\C#\Hello_CS\obj\Debug\net6.0\refint\Hello_CS.dll
+C:\Users\Kanja\Desktop\C#\Hello_CS\obj\Debug\net6.0\Hello_CS.pdb
+C:\Users\Kanja\Desktop\C#\Hello_CS\obj\Debug\net6.0\Hello_CS.genruntimeconfig.cache
+C:\Users\Kanja\Desktop\C#\Hello_CS\obj\Debug\net6.0\ref\Hello_CS.dll
